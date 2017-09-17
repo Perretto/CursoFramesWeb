@@ -1,0 +1,12 @@
+{
+  "name": "angular1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp",
+    "production": "gulp --production"
+  },
+  "author": "Perretto",
+  "license": "ISC"
+}
